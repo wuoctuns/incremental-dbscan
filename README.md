@@ -1,6 +1,6 @@
-# 🤖 Incremental DBSCAN
+# Incremental DBSCAN
 
-## 📖 Overview
+## Overview
 
 This project was developed as the final project for the **Machine Learning** course at the **University of Economics Ho Chi Minh City (UEH)**.
 
@@ -10,7 +10,7 @@ The project also evaluates the effectiveness of the proposed algorithm by compar
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Understand the principles of density-based clustering.
 - Implement the Incremental DBSCAN algorithm in Python.
@@ -20,7 +20,7 @@ The project also evaluates the effectiveness of the proposed algorithm by compar
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - Python
 - Jupyter Notebook
@@ -32,7 +32,7 @@ The project also evaluates the effectiveness of the proposed algorithm by compar
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 incremental-dbscan/
@@ -49,13 +49,13 @@ incremental-dbscan/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The project uses a synthetic **Moon** dataset generated for clustering experiments. The dataset consists of two-dimensional points that are suitable for evaluating density-based clustering algorithms.
 
 ---
 
-## ⚙️ Implemented Algorithms
+## Implemented Algorithms
 
 - Incremental DBSCAN
 - DBSCAN
@@ -63,7 +63,7 @@ The project uses a synthetic **Moon** dataset generated for clustering experimen
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 The clustering performance is evaluated using the following metrics:
 
@@ -75,7 +75,7 @@ These metrics provide a comprehensive assessment of clustering quality in terms 
 
 ---
 
-## 🚀 Project Highlights
+## Project Highlights
 
 - Incremental clustering implementation.
 - Comparison with traditional clustering algorithms.
@@ -85,7 +85,7 @@ These metrics provide a comprehensive assessment of clustering quality in terms 
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Tran Quoc Tuan**
 
