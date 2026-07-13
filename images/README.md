@@ -1,17 +1,12 @@
-## 📷 Results
+# Images
 
-### Dataset
+This folder contains the visualization results generated during the implementation and evaluation of the Incremental DBSCAN algorithm.
 
-![Dataset](images/dataset.png)
+## Contents
 
-### Traditional DBSCAN
+- `dataset.png` — Visualization of the original Moon dataset.
+- `dbscan_result.png` — Clustering result using the traditional DBSCAN algorithm.
+- `kmeans_result.png` — Clustering result using the K-Means algorithm.
+- `incremental_result.png` — Clustering result produced by the Incremental DBSCAN algorithm, along with the execution time comparison.
 
-![DBSCAN](images/dbscan_result.png)
-
-### K-Means Comparison
-
-![KMeans](images/kmeans_result.png)
-
-### Incremental DBSCAN & Time Comparison
-
-![Incremental](images/incremental_result.png)
+These images are used to illustrate and compare the clustering performance of different algorithms.
