@@ -1,9 +1,26 @@
 # Report
 
-This folder contains the project report.
+## Overview
 
-## Files
+This folder contains the final report for the Incremental DBSCAN project.
 
-- `report.docx`
+The report summarizes the research background, implementation process, experimental results, and conclusions of the project.
 
-The report describes the project objectives, methodology, implementation, experiments, and evaluation.
+## Contents
+
+| File | Description |
+|------|-------------|
+| `Final_Report.pdf` | Final project report. |
+
+## Report Contents
+
+The report includes:
+
+- Project introduction
+- Literature review
+- Algorithm design
+- System implementation
+- Experimental setup
+- Result analysis
+- Performance evaluation
+- Conclusion and future work
